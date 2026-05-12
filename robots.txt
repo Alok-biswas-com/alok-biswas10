@@ -1,5 +1,5 @@
-# Alok Biswas - Professional Graphic Designer Portfolio
-# SEO-optimized robots.txt for search engine optimization
+# Alok Biswas - Professional Graphic Designer Portfolio (alokbiswas10)
+# Advanced SEO & Accessibility optimized robots.txt for search engine optimization
 
 User-agent: *
 Allow: /
@@ -9,31 +9,40 @@ Allow: /index.html
 Disallow: /admin
 Disallow: /private
 Disallow: /temp
+Disallow: /.git
+Disallow: /.env
 Disallow: /*.pdf$
 Disallow: /*.zip$
 
-# Crawl delay and request rate
+# Crawl delay and request rate optimization
 Crawl-delay: 0
 Request-rate: 30/1m
 User-agent: *
 
-# Specific rules for Google
+# Specific rules for Google (Googlebot)
 User-agent: Googlebot
 Allow: /
 Crawl-delay: 0
 Priority: high
 
-# Specific rules for Bing
+# Specific rules for Bing/MSN
 User-agent: Bingbot
 Allow: /
 Crawl-delay: 1
 
-# Block bad bots
+# Rules for Yandex
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+# Block low-quality bots (security & performance)
 User-agent: MJ12bot
 User-agent: AhrefsBot
 User-agent: SemrushBot
 User-agent: DotBot
+User-agent: MojeekBot
+User-agent: DuckDuckBot
 Disallow: /
 
-# Sitemap location for search engines
-Sitemap: https://Alok-biswas-com.github.io/alok-biswas/sitemap.xml
+# Sitemap locations for search engines
+Sitemap: https://alok-biswas-com.github.io/alok-biswas10/sitemap.xml

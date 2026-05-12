@@ -4,48 +4,53 @@
         xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
   <!-- Homepage -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://Alok-biswas-com.github.io/alok-biswas/alok.webp</image:loc>
-      <image:title>Alok Biswas - Professional Graphic Designer</image:title>
-      <image:caption>Alok Biswas Portfolio</image:caption>
+      <image:loc>https://alok-biswas-com.github.io/alok-biswas10/alok.webp</image:loc>
+      <image:title>Alok Biswas - Professional Graphic Designer - alokbiswas10</image:title>
+      <image:caption>Alok Biswas Professional Portfolio - Graphic Designer</image:caption>
     </image:image>
+    <mobile:mobile />
   </url>
   <!-- About Section -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/#about</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/#about</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
   </url>
   <!-- Skills Section -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/#skills</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/#skills</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <!-- Services Section -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/#services</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/#services</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://alok-biswas-com.github.io/alok-biswas10/alok.webp</image:loc>
+      <image:title>Graphic Design Services by Alok Biswas</image:title>
+    </image:image>
   </url>
   <!-- Projects/Portfolio Section -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/#projects</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/#projects</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.98</priority>
   </url>
   <!-- Contact Section -->
   <url>
-    <loc>https://Alok-biswas-com.github.io/alok-biswas/#contact</loc>
-    <lastmod>2026-04-28</lastmod>
+    <loc>https://alok-biswas-com.github.io/alok-biswas10/#contact</loc>
+    <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
   </url>
